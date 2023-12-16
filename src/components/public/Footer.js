@@ -5,7 +5,7 @@ export const Footer = () => {
     const [clicks, setclicks] = useState(0);
 
     const year = new Date().getFullYear();
-    const companyName ="No Joda Inc";
+    const companyName ="Caliche";
     
     const handleClick = ()=> {
         setclicks(clicks +1);

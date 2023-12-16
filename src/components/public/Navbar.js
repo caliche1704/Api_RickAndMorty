@@ -10,7 +10,7 @@ export const Navbar = () => {
         <span
           className="d-flex aling-items-center mb-2 mb-lg-0 text-white text-decoration-none"
           >
-            <img className="App-logo" height="52" src="earth.png" alt="" />
+            <img className="App-logo" height="52" src="rickAndMorty.png" alt="" />
         </span>
 
         <ul className="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
